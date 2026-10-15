@@ -3,12 +3,12 @@
   <channel>
     <title>Binaural</title>
     <item>
-      <title>Version 2.0.1</title>
-      <pubDate>Thu, 15 Oct 2026 12:32:25 -0500</pubDate>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <title>Version 2.0.2</title>
+      <pubDate>Thu, 15 Oct 2026 12:37:33 -0500</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/laurenschristian/binaural-releases/releases/download/v2.0.1/Binaural.dmg" type="application/octet-stream" sparkle:edSignature="/B0uVFlMlZHAa/mp1pjfVkuaWz8ogddW/SGOie/ObXgdq7CBZfnHzZYjokKefF+EerSseXrhIptUDpHCnwolCw==" length="1923301"/>
+      <enclosure url="https://github.com/laurenschristian/binaural-releases/releases/download/v2.0.2/Binaural.dmg" type="application/octet-stream" sparkle:edSignature="zLmZHKZuEw+evZSxNFsX9IfnpkV9EM2iAOJx7GTuVKcR6aT5maQwkJD2pso/FrO21lJGuzONgAfRhXRNCqPrCw==" length="1922690"/>
     </item>
   </channel>
 </rss>
